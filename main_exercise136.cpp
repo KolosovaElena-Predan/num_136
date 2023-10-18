@@ -4,8 +4,8 @@
 #include <iostream>
 #include <iomanip> //для округления
 #include <cassert>                  // для assert
-#include <vector>
-#include <cmath>                  // для assert
+#include <vector>			   //для масивов
+#include <cmath>                    // для assert
 #include <fstream>			   //для работы с файлами
 #include <string> 			   //для работы со строками
 #include "module_arrays.h"          //модуль для работы с массивами
